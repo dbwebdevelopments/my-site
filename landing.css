@@ -67,4 +67,6 @@ h5{
     font-weight: bold;
     display: inline;
 }
-footer{font-family: arial;}
+footer{font-family: arial;
+		align-items: center;
+	}
