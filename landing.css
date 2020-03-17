@@ -1,0 +1,70 @@
+header{
+  background-image: url(https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg);
+  padding-top:320px;
+  background-size: cover;
+  font-family: 'Raleway', sans-serif;
+}
+h1{
+	color: antiquewhite;
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+}
+.tag-line{
+	color: antiquewhite;
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+body{
+	background-color: antiquewhite;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h2{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 18px;
+}
+.about{
+	font-size: 18px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.services{
+	font-size: 18px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.contact{
+	font-size: 18px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h3{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 18px;
+}
+h4{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 18px;
+}
+h5{
+	font-family: 'Ubuntu', sans-serif;
+	display: inline;
+	li: antiquewhite;
+	font-size: 20px;
+}
+
+.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: burlywood;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: antiquewhite;
+    font-weight: bold;
+    display: inline;
+}
+footer{font-family: arial;}
